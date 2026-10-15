@@ -1,0 +1,6 @@
+{
+  "name": "Smart Student Attendance Tracker",
+  "description": "Comprehensive student attendance management system with role-based access for Admins, Teachers, and Students, real-time analytics, and low-attendance alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
